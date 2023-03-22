@@ -1,0 +1,5 @@
+.notification {
+  background-color: var(--grey);
+  width: 50%;
+  border-radius: 10px;
+}
