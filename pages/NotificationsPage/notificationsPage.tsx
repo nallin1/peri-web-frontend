@@ -14,6 +14,9 @@ export default function notificationsPage() {
       </Head>
       <SearchTopo />
       <Notification />
+      <Notification />
+      <Notification />
+      <Notification />
     </>
   );
 }

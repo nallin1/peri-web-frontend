@@ -6,7 +6,11 @@ export default function Notification() {
   return (
     <>
       <div className="notification">
-        <Image src={userPeri} alt="user" height={28} />
+        <Image src={userPeri} alt="user" height={56} />
+        <div className="details">
+          <h1 id="userName"> Guilherme Nallin</h1>
+          <span id="notificationText">Curtiu sua postagem !</span>
+        </div>
       </div>
     </>
   );
